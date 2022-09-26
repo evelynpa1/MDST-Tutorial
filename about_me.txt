@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! I'm Evelyn, and I'm a freshman. I am in the school of engineering, and am planning to major in Data Science. A fun fact is that the only reason I know some lua is because my brother keeps asking me to help him code his roblox game :')
